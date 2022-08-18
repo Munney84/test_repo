@@ -2,3 +2,4 @@ clare:/bin/bash:GitAcc:dog
 Joy:/bin/bash:GitAcc:dog
 Howard:/bin/bash:GitAcc:dog
 clarence:/bin/bash:GitAcc:dog
+hans:/bin/bash:GitAcc:god
