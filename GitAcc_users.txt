@@ -1,1 +1,2 @@
-yrdf utf:/bin/bash:GitAcc:dcedd
+clare:/bin/bash:GitAcc:dog
+Joy:/bin/bash:GitAcc:dog
